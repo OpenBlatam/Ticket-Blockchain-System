@@ -1,4 +1,4 @@
-package Ticket_Blockchain_System
+package main
 
 type TicketBlock struct {
 	Index        int      `json:"index"`

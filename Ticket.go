@@ -1,4 +1,4 @@
-package Ticket_Blockchain_System
+package main
 
 type Ticket struct {
 	ID           string `json:"id"`

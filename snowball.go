@@ -1,4 +1,4 @@
-package snowball
+package main
 
 import (
 	"time"

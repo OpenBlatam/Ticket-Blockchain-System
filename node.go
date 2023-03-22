@@ -1,4 +1,6 @@
-package node
+package main
+
+import "math/rand"
 
 type Node struct {
 	snowball *Snowball
