@@ -1,11 +1,7 @@
-package Ticket_Blockchain_System
-
-package main
+package snowball
 
 import (
-"math/rand"
-"sync"
-"time"
+	"time"
 )
 
 // 1. Define parameters: k (sample size), α (confidence), and β (finalization)
@@ -56,4 +52,3 @@ func (s *Snowball) Run(block *TicketBlock, nodes []*Node) {
 		}
 	}
 }
-
