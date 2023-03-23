@@ -1,5 +1,8 @@
 package main
 
+import qrcode "github.com/skip2/go-qrcode"
+import "github.com/myusername/mypackage/ticketpb"
+
 import (
 	"crypto/sha256"
 	"encoding/hex"

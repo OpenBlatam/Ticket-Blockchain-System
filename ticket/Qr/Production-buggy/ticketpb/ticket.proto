@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package ticketpb;
+
+message Ticket {
+  int32 id = 1;
+  string seller = 2;
+  double price = 3;
+}
