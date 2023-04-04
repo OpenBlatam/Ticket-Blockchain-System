@@ -10,3 +10,9 @@ github.com/hoffoo/go-nfc: A similar library to skip2/nfc, but supports more plat
 
 github.com/google/google-authenticator: A library for generating and verifying one-time passwords (OTP) using the TOTP algorithm. This can be useful for creating secure and time-limited NFC tags that can be used for authentication.
 
+
+
+## Attacks 
+
+https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/6975506
+
