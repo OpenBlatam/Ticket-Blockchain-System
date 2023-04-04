@@ -1,8 +1,7 @@
 package main
 
 import (
-"log"
-
+   "log"
 	"github.com/go-piv/piv-go/piv"
 )
 
