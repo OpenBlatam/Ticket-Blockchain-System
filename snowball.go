@@ -39,6 +39,7 @@ func (s *Snowball) Vote(block *TicketBlock) {
 
 func (s *Snowball) Run(block *TicketBlock, nodes []*Node) {
 	// Simulate the voting process
+	// the chatgpt simulate a lot! the snow folder for proto implemnetation in better
 	for {
 		select {
 		case <-s.finalize:
