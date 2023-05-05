@@ -2,6 +2,8 @@ package main
 
 import "math/rand"
 
+
+// TODO: add ipcs, is better another conection ?
 type Node struct {
 	snowball *Snowball
 }

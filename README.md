@@ -1,5 +1,12 @@
 # Ticket-Blockchain-System
 
+## Roadmap
+
+[] Consensus library
+[] Api scalability
+[] Proto-json messages
+[] 
+
 ## Description 
 
 
