@@ -153,6 +153,15 @@ Code snippets appearing in `this style` are to be interpreted as Python 3 code.
 
 We define the following Python custom types for type hinting and readability:
 
+| Name       | SSZ equivalent | Description     |
+|------------|----------------|-----------------|
+| TicketID   | uint64         | a ticket number |
+| Validation |                |                 |
+|            |                |                 |
+|            |                |                 |
+|            |                |                 |
+|            |                |                 |
+
 | Name | SSZ equivalent | Description |
 | - | - | - |
 | `Slot` | `uint64` | a slot number |
